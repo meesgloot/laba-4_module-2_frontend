@@ -1,0 +1,47 @@
+.img {
+	height: 100px;
+	width:100px;
+	object-fit:cover;
+	border: 1em solid white;
+	cursor:pointer;
+}
+#posit {
+	text-align:center;
+}
+#sketcheees {
+	height: 400px;
+	width:auto;
+	border: 1em solid white;
+}
+#cent {
+	text-align:center;
+	
+}
+.clos {
+	margin-left: 1100px;
+	color: aqua;
+	cursor: pointer;
+}
+.button {
+	height: 50px;
+	width:auto;
+	cursor:pointer;
+	top: -40px;
+	position: relative;
+}
+#solo img:not(.button){
+	height: 100px;
+	width:100px;
+	object-fit:cover;
+	border: 1em solid white;
+	cursor:pointer;
+}
+#videofilm {
+	text-align:center;
+}
+#film {
+	height: 400px;
+	width:auto;
+	border: 1em solid white;
+	text-align:center;
+}
